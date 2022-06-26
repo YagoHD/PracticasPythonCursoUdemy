@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="234cf92c-13e3-451f-893e-b965468b195b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejercicio04ValorDentroDeRango.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio05OperadorOrNot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio06Entre20y30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio07ElMayorde2Numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicio08EjercicioFINALTiendaLibro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OperadoresLogicos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
