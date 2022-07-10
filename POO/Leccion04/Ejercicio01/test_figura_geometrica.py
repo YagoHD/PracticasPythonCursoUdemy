@@ -1,5 +1,6 @@
-from Cuadrado import Cuadrado
-from Rectangulo import Rectangulo
+from Ejercicio01.Cuadrado import Cuadrado
+from Ejercicio01.FiguraGeometrica import FiguraGeometrica
+from Ejercicio01.Rectangulo import Rectangulo
 
 print("Creacion objeto cuadrado".center(50,"-"))
 cuadrado1 = Cuadrado(lado= 5, color= "rojo")
@@ -17,3 +18,6 @@ print("Creacion objeto rectangulo".center(50,"-"))
 rectangulo1 = Rectangulo(ancho=9,alto=8,color= "verde")
 print("Calculo area rectangulo:",rectangulo1.calcular_area())
 print(rectangulo1)
+
+#No se puede instanciar una clase abstracta
+# figura = FiguraGeometrica()
